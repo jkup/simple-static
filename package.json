@@ -19,5 +19,8 @@
   "homepage": "https://github.com/jkup/simple-static#readme",
   "dependencies": {
     "marked": "^4.3.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11"
   }
 }
