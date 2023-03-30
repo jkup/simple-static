@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jkup/simple-static/issues"
   },
-  "homepage": "https://github.com/jkup/simple-static#readme"
+  "homepage": "https://github.com/jkup/simple-static#readme",
+  "dependencies": {
+    "marked": "^4.3.0"
+  }
 }
